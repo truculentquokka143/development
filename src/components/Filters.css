@@ -1,0 +1,26 @@
+.filter-section {
+    background-color:#99d39f;
+    display: flex;
+    padding: 2vw;
+    height: fit-content;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border-radius: 1vw;
+}
+
+.filters {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 2vh;
+}
+
+form {
+  margin-bottom: 3vh;
+}
+
+.total {
+  font-size: 25px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Opossum",
+    "length": 20,
+    "vore": "Omnivore",
+    "mass": 12,
+    "image": "images/opossum.png"
+  },
+  {
+    "name": "Koala",
+    "length": 33.6,
+    "vore": "Herbivore",
+    "mass": 33,
+    "image": "images/koala.png"
+  },
+  {
+    "name": "Wombat",
+    "length": 39.6,
+    "vore": "Omnivore",
+    "mass": 77,
+    "image": "images/wombat.png"
+  },
+  {
+    "name": "Quokka",
+    "length": 21,
+    "vore": "Herbivore",
+    "mass": 6.7,
+    "image": "images/quokka.png"
+  },
+  {
+    "name": "Sugar Glider",
+    "length": 6.2,
+    "vore": "Omnivore",
+    "mass": 0.5,
+    "image": "images/sugarglider.png"
+  },
+  {
+    "name": "Tasmanian Devil",
+    "length": 25.2,
+    "vore": "Carnivore",
+    "mass": 18,
+    "image": "images/tasmanian.png"
+  },
+  {
+    "name": "Possum",
+    "length": 37,
+    "vore": "Omnivore",
+    "mass": 11,
+    "image": "images/possum.png"
+  },
+  {
+    "name": "Quoll",
+    "length": 13,
+    "vore": "Carnivore",
+    "mass": 2.4,
+    "image": "images/quoll.png"
+  },
+  {
+    "name": "Bilby",
+    "length": 21.6,
+    "vore": "Omnivore",
+    "mass": 5.5,
+    "image": "images/bilby.png"
+  },
+  {
+    "name": "Kangaroo",
+    "length": 110.4,
+    "vore": "Herbivore",
+    "mass": 110,
+    "image": "images/kangaroo.png"
+  },
+  {
+    "name": "Potoroo",
+    "length": 15,
+    "vore": "Omnivore",
+    "mass": 3.9,
+    "image": "images/potoroo.png"
+  },
+  {
+    "name": "Dunnart",
+    "length": 3.5,
+    "vore": "Carnivore",
+    "mass": 0.05,
+    "image": "images/dunnart.png"
+  }
+]

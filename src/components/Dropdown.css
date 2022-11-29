@@ -1,0 +1,12 @@
+label {
+    font-size: 18px;
+}
+.sort-by {
+    font-weight: bold;
+}
+
+select {
+    color: rgb(96, 83, 83);
+    background-color: #f4efe2;
+    font-family: 'Source Sans Pro', sans-serif;}
+
