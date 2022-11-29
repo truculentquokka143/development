@@ -47,5 +47,5 @@ When the favorites button is clicked and unclicked, the list of favorites and fa
 ### How the User Triggers State Changes
 The user triggers state changes by clicking different radio buttons for the filters, by checking and unchecking the favorites, and by changing the sort by method in the dropdown.
 
-### Usability principles
+### Usability Principles
 I attempted to keep a minimal design for my application. I established a visual hierarchy with large and bold titles and headers and small, unboleded body text. The filters panel is on the left for easy user recognition. The radio buttons enable users to only select one value for each filter to give user control but also to prevent errors by selecting multiple values. The 'Add To Favorites' button is large and beneath the item description, making it easy for users to find. Additionaly, a grid like pattern for the items makes the layout consistent and organize. Each filter, dropdown, section, and item is clearly labeled so users can easily understand what every element on the page is for.
